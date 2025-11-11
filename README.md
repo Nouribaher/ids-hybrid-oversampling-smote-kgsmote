@@ -109,7 +109,7 @@ By applying SMOTE for broad coverage and KGSMOTE for targeted realism, the IDS p
 An autoencoder is a specific type of Deep Neural Network (DNN) that use either a Denoising Autoencoder (DAE) or a Mechanism-Driven Semi-Supervised Autoencoder (MDSAE) to train the model to be robust to noise so it learns mechanism-aware, high-quality latent features.Trained through unsupervised learning to minimize the difference between the input and the reconstructed output.
 
 ### Reducer with Autoencoder
-<img width="909" height="578" alt="Screenshot 2025-10-08 012647" src="https://github.com/user-attachments/assets/1653f786-2b86-42c5-b3e9-7a0b2bd31601" />
+<img width="867" height="592" alt="image" src="https://github.com/user-attachments/assets/4915b605-d815-4a8a-9c29-16d842ef1fdd" />
 
 
 <details>
